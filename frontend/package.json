@@ -1,6 +1,6 @@
 {
   "name": "frontend",
-  "proxy": "https://petsmall.onrender.com",
+  "proxy": "https://petsmall-mern-project.onrender.com",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
