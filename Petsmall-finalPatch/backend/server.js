@@ -11,7 +11,7 @@ import uploadRouter from './routes/uploadRoutes.js';
 dotenv.config();
 
 mongoose
-  .connect("mongodb+srv://next-tailwind-amazona:behzadkhadim@cluster0.bpdqerm.mongodb.net/semester-project-petsmall?retryWrites=true&w=majority")
+  .connect("mongodb+srv://next-tailwind-amazona:behzadkhadim@cluster0.bpdqerm.mongodb.net/")
   .then(() => {
     console.log('connected to db');
   })
@@ -47,7 +47,7 @@ app.use((err, req, res, next) => {
   res.status(500).send({ message: err.message });
 });
 
-const port = process.env.PORT || 5000;
+const port = process.env.PORT || 3000;
 app.listen(port, () => {
   console.log(`serve at http://localhost:${port}`);
 });

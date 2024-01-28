@@ -51,7 +51,7 @@ function Footer() {
       </div>
       <div className="red-tape">
           <a style={{marginLeft: 235, color: '#dadcdb',textDecoration: 'none', fontSize: 13, fontWeight: '500'}} href="">OUR STORES</a><a style={{marginLeft:20,  color: '#dadcdb',textDecoration: 'none', fontSize: 13,fontWeight: '500'}} href="">BLOG</a><a style={{marginLeft:12,  color: '#dadcdb',textDecoration: 'none', fontSize: 13,fontWeight: '500'}} href="">0309-9999066 / 0320-2881218</a>
-          <div style={{marginTop: 8, paddingBottom:14}}><a style={{marginLeft: 235, marginTop: 80, color: 'white', fontWeight: '500'}} >Copyright 2022 © PETSMALL.PK | Abdullah Adnan Behzad Khadim Sana Imran</a></div>
+          <div style={{marginTop: 8, paddingBottom:14}}><a style={{marginLeft: 235, marginTop: 80, color: 'white', fontWeight: '500'}} >Copyright 2022 © PETSMALL.PK (this website is the clone version of the actual petsmall.pk) | Behzad Khadim </a></div>
           </div>
     </div>
     

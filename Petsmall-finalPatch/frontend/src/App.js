@@ -84,7 +84,7 @@ function App() {
       >
         <ToastContainer position="bottom-center" limit={1} />
         <header>
-          <div style={{backgroundColor: '#446084'}}><a style={{marginLeft: 850,  color: '#cad2d3',textDecoration: 'none', fontSize: 13}} href="">Our Stores</a><a class="vl" style={{marginLeft:20,  color: '#cad2d3',textDecoration: 'none', fontSize: 13}} href="">Blog</a><a class="vl" style={{marginLeft:12,  color: '#cad2d3',textDecoration: 'none', fontSize: 13}} href="">0309-9999066 / 0320-2881218</a></div>
+          <div style={{backgroundColor: '#446084'}}><a style={{marginLeft: 850,  color: '#cad2d3',textDecoration: 'none', fontSize: 13}} href="">Our Stores</a><a class="vl" style={{marginLeft:20,  color: '#cad2d3',textDecoration: 'none', fontSize: 13}} href="">Blog</a><a class="vl" style={{marginLeft:12,  color: '#cad2d3',textDecoration: 'none', fontSize: 13}} href="">0309-9994343</a></div>
           <Navbar bg="white" variant="white" expand="lg">
             <Container>
               <LinkContainer to="/">
