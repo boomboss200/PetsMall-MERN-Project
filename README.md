@@ -53,7 +53,7 @@ Follow these steps to set up the project locally:
 
 ## Contributing
 
-We welcome contributions! If you'd like to contribute to the project, please react out at [bkicloud2001@gmail.com].
+We welcome contributions! If you'd like to contribute to the project, please react out at [mail@behzadkhadim.com].
 
 ## Acknowledgments
 
